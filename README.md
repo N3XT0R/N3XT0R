@@ -43,6 +43,9 @@ See more on my [GitHub profile](https://github.com/N3XT0R?tab=repositories).
 
 - [GitHub Achievements](https://github.com/N3XT0R?tab=achievements)
 
+> 🧊 **Fun fact:** In the year 3025, people might still see my Laravel Migration Generator,  
+> preserved in the Arctic Code Vault. 😄
+
 ---
 
 ## 🎯 Interests & Hobbies
