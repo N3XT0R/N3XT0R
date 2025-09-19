@@ -27,10 +27,10 @@ Senior Backend Developer with 15+ years of experience. Passionate about clean co
 
 ## 🚀 Favorite Projects
 
-- [laravel-migration-generator](https://github.com/N3XT0R/laravel-migration-generator) — Effortlessly generate Laravel migrations from existing databases.
-- [filament-lockbox](https://github.com/N3XT0R/filament-lockbox)
-- [dashclip-delivery](https://github.com/N3XT0R/dashclip-delivery)
-- [WP-XPub](https://github.com/N3XT0R/WP-XPub)
+- 🛠️ [**laravel-migration-generator**](https://github.com/N3XT0R/laravel-migration-generator) — Effortlessly generate Laravel migrations from existing databases.
+- 🔐 [**filament-lockbox**](https://github.com/N3XT0R/filament-lockbox)
+- 📦 [**dashclip-delivery**](https://github.com/N3XT0R/dashclip-delivery)
+- 🔗 [**WP-XPub**](https://github.com/N3XT0R/WP-XPub)
 
 See more on my [GitHub profile](https://github.com/N3XT0R?tab=repositories).
 
