@@ -38,7 +38,9 @@ See more on my [GitHub profile](https://github.com/N3XT0R?tab=repositories).
 
 ## 🏆 Achievements & Certifications
 
-- **ISO 27001 Certified** — Committed to information security
+![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-blue?logo=github)
+[![ISO 27001 Certified](https://img.shields.io/badge/ISO%2027001-Certified-green?logo=trustpilot&logoColor=white)](https://www.certipedia.com/quality_marks/0000084500?locale=de)
+
 - [GitHub Achievements](https://github.com/N3XT0R?tab=achievements)
 
 ---
