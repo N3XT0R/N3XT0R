@@ -4,8 +4,10 @@
 
 Senior Backend Developer with 15+ years of experience. Passionate about clean code, security, and leaving code better than I found it. I architect and rescue modular PHP systems—always striving for clarity, quality, and secure solutions.
 
-> 💡 **Personal Motto:**  
-> "Leave code better than you found it."
+<p align="center">
+💡 <b>Personal Motto:</b><br>
+<i>"Leave code better than you found it."</i>
+</p>
 
 ---
 
