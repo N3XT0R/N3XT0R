@@ -2,7 +2,11 @@
 
 ## About Me
 
-Senior Backend Developer with 15+ years of experience. Passionate about clean code, security, and leaving code better than I found it. I architect and rescue modular PHP systems—always striving for clarity, quality, and secure solutions.
+Senior Backend Developer with 15+ years of experience — I don’t just write code, I live software.  
+I think in systems, architecture, and responsibility: from clean abstractions to secure deployments.  
+Passionate about clarity, modular design, and building things that last.  
+
+I architect and rescue modular PHP systems—always striving for clarity, quality, and secure solutions.
 
 <p align="center">
 💡 <b>Personal Motto:</b><br>
