@@ -31,10 +31,11 @@ I architect and rescue modular PHP systems—always striving for clarity, qualit
 
 ## 🚀 Favorite Projects
 
-- 🛠️ [**laravel-migration-generator**](https://github.com/N3XT0R/laravel-migration-generator) — Effortlessly generate Laravel migrations from existing databases.
-- 🔐 [**filament-lockbox**](https://github.com/N3XT0R/filament-lockbox)
+- 🛠️ [**laravel-migration-generator**](https://github.com/N3XT0R/laravel-migration-generator) - Effortlessly generate Laravel migrations from existing databases.
+- 🔐 [**filament-lockbox**](https://github.com/N3XT0R/filament-lockbox) - Secure secret and credential management for Filament admin panels.
+- 🧭 [**filament-passport-ui**](https://github.com/N3XT0R/filament-passport-ui) - Enterprise OAuth visibility & governance UI for Laravel Passport.
+- 🧱 [**laravel-passport-authorization-core**](https://github.com/N3XT0R/laravel-passport-authorization-core) - Domain-oriented authorization core for structured Passport-based systems.
 - 📦 [**dashclip-delivery**](https://github.com/N3XT0R/dashclip-delivery)
-- 🔗 [**WP-XPub**](https://github.com/N3XT0R/WP-XPub)
 
 See more on my [GitHub profile](https://github.com/N3XT0R?tab=repositories).
 
