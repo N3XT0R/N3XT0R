@@ -35,6 +35,7 @@ I architect and rescue modular PHP systems—always striving for clarity, qualit
 - 🔐 [**filament-lockbox**](https://github.com/N3XT0R/filament-lockbox) - Secure secret and credential management for Filament admin panels.
 - 🧭 [**filament-passport-ui**](https://github.com/N3XT0R/filament-passport-ui) - Enterprise OAuth visibility & governance UI for Laravel Passport.
 - 🧱 [**laravel-passport-authorization-core**](https://github.com/N3XT0R/laravel-passport-authorization-core) - Domain-oriented authorization core for structured Passport-based systems.
+- 🌐 [**laravel-webdav-server**](https://github.com/N3XT0R/laravel-webdav-server) - Native WebDAV server integration for Laravel with explicit request pipeline, Flysystem storage mapping, and policy-based authorization.
 - 📦 [**dashclip-delivery**](https://github.com/N3XT0R/dashclip-delivery)
 
 See more on my [GitHub profile](https://github.com/N3XT0R?tab=repositories).
